@@ -1,2 +1,3 @@
 # Sudoku-Solver
-Two algorithms for solving a normal sudoku
+This is a sudoku solver with two methods, the backtracking and simulated-annealing method.
+####
