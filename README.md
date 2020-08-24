@@ -4,7 +4,7 @@ This is a sudoku solver with two methods, backtracking and simulated-annealing m
 
 ### Usage
 
-You can simply download the files, and use GNU make, then use the command :
+You can simply download the files, and use GNU make to compile, then you can running the executable as :
 
     ./solve.exe test.dat
 
@@ -42,6 +42,7 @@ You will see a result like
                            
     Total Steps : 12828    
 
+You can try to solve your own sudoku using the same format as in test.dat.
 In the SudokuSolver class, there are two public member functions, BackTracking and SimulatedAnnealing, providing two different algorithms of solving a sudoku.
 
 
