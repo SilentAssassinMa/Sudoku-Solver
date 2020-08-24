@@ -1,8 +1,8 @@
-#Sudoku-Solver
+# Sudoku-Solver
 
-This is a sudoku solver with two methods, the backtracking and simulated-annealing method.
+This is a sudoku solver with two methods, backtracking and simulated-annealing method.
 
-###Usage
+### Usage
 
 You can simply download the files, and use GNU make, then use the command :
 
@@ -42,7 +42,7 @@ You will see a result like
                            
     Total Steps : 12828    
 
-In the SudokuSolver class, there are two member function, BackTracking and SimulatedAnnealing, providing two different algorithms of solving a sudoku.
+In the SudokuSolver class, there are two public member functions, BackTracking and SimulatedAnnealing, providing two different algorithms of solving a sudoku.
 
 
 
